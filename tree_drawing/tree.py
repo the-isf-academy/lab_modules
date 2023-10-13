@@ -1,8 +1,6 @@
-#######################
-# Unit 0 Lab 7
 # tree.py
-#######################
 
+from turtle import *
 # 💻 IMPORT MODULES BELOW  💻 #
 
 

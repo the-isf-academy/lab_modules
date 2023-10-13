@@ -1,7 +1,4 @@
-#######################
-# Unit 0 Lab 7
 # tree_parts.py
-#######################
 
 from turtle import *
 from basic_shapes import triangle, rectangle

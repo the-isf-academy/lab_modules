@@ -1,7 +1,4 @@
-#######################
-# Unit 0 Lab 7
 # shapes.py
-#######################
 
 from turtle import color, begin_fill, end_fill, forward, right, left
 

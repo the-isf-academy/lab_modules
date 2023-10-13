@@ -1,7 +1,4 @@
-#######################
-# Unit 0 Lab 7
-# fancy_drawing.py
-#######################
+# fancy_drawing_example.py
 
 from turtle import *
 from drawing.shapes import fancy_star
