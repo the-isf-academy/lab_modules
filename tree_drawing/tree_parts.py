@@ -2,6 +2,7 @@
 
 from turtle import *
 from basic_shapes import triangle, rectangle
+from .drawing.movement import *
 
 def tree_top(size):
     # draws 3 triangles on top of each other to looks like
@@ -21,4 +22,5 @@ def tree_trunk(size):
 
     rectangle(size/2,size,"brown")
 
-
+with no_delay:
+    tree_top(100)
